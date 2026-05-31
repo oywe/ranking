@@ -1,12 +1,12 @@
 // bot.js
 const fs = require("fs");
 
-const studioId = "51396308";
+const studioId = "51471940";
 
 const LIMIT = 40;
 const DAY = 24 * 60 * 60 * 1000;
 
-const PAGE_WAIT = 120;
+const PAGE_WAIT = 90;
 const REPLY_PARALLEL = 6;
 
 const RETRY_WAIT = 1000;
