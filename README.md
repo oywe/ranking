@@ -12,15 +12,15 @@
 
 ---
 
-**1位 mimikyuos**  
+**1位 SprunkiTasticOliver**  
 合計: 1（コメント 1 / 返信 0 / 返信された数 0 / 偏差値 50.0）
 
-**2位 seishiro061**  
+**2位 mimikyuos**  
 合計: 1（コメント 1 / 返信 0 / 返信された数 0 / 偏差値 50.0）
 
-**3位 KayzeeKrayzee**  
+**3位 seishiro061**  
 合計: 1（コメント 1 / 返信 0 / 返信された数 0 / 偏差値 50.0）
 
-**4位 4SuperHEROKarusel64**  
+**4位 KayzeeKrayzee**  
 合計: 1（コメント 1 / 返信 0 / 返信された数 0 / 偏差値 50.0）
 
